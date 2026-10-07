@@ -1,0 +1,6 @@
+__pycache__/
+*_predictions.csv
+# unsplit originals and exported samples stay local
+chem_log.csv
+spec_log.csv
+online_samples/
